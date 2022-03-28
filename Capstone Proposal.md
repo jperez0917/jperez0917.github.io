@@ -13,12 +13,18 @@ Tasks: - find books in search engine.
 
 User Stories: -As a avid reader, I would like to be able to search books by various ways. Because it helps me find a new book faster. 
                             . Use open library API to find books by author, title, keyword
+			    
+			    
               -As a a member of a book club , I would like to review books that we recently read. because it helps me keep track of books I enjoyed to read.
                             . Create model character field to allow user to write and save reviews
+			    
+			    
               -As a collector I would like to keep records of books I have read/want to read. because I would like to showcase all the books I have read.
                             . be able to save books selected by user to a different model to display on page. 
+			    
+			    
 		  -As a book club organizer I would like to share our book of the month on social media. Because It would help get more involved in my book club.
-				     								.		add buttons to different social media sites that would allow users to post books they have read/want to read. 
+		             add buttons to different social media sites that would allow users to post books they have read/want to read. 
 			 
 Data Model:
 
