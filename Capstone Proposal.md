@@ -1,6 +1,6 @@
-#Josse's Capstone Proposal
+Josse's Capstone Proposal
 
-##Name of app: BookQuest
+Name of app: BookQuest
 
 Project description: BookQuest will be an interactive search engine for book lovers with focus on younger generation. Users will be able to find, share, review and save books all in one site. 
 
